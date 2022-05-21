@@ -1,0 +1,55 @@
+%FILENAME%
+plymouth-22.02.122-1-x86_64.pkg.tar.zst
+
+%NAME%
+plymouth
+
+%BASE%
+plymouth
+
+%VERSION%
+22.02.122-1
+
+%DESC%
+A graphical boot splash screen with kernel mode-setting support
+
+%CSIZE%
+1093971
+
+%ISIZE%
+1990836
+
+%MD5SUM%
+1494f94fc3aa579a648a6b64346162a1
+
+%SHA256SUM%
+d98a201ffdc01534c1516e66a09882c046d76b8d0c6475522a823169e90012e0
+
+%URL%
+https://www.freedesktop.org/wiki/Software/Plymouth/
+
+%LICENSE%
+GPL
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1645736845
+
+%PACKAGER%
+Unknown Packager
+
+%DEPENDS%
+libdrm
+pango
+systemd
+
+%OPTDEPENDS%
+ttf-dejavu: For true type font support
+xf86-video-fbdev: Support special graphic cards on early startup
+cantarell-fonts: True Type support for BGRT theme
+
+%MAKEDEPENDS%
+docbook-xsl
+
