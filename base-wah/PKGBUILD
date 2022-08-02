@@ -4,11 +4,12 @@
 pkgname=base-wah
 pkgver=1.0
 pkgrel=1
-pkgdesc='Paquete base de Panwah'
-url='https://reisy243.github.io/panwah'
+pkgdesc="Paquete base de Panwah"
+url="https://reisy243.github.io/panwah"
+srcurl="https://raw.githubusercontent.com/Reisy243/panwah/src/base-wah"
 groups=(panwah)
-arch=('any')
-license=('unknown')
+arch=("any")
+license=("unknown")
 depends=(#Muy muy base
         "gcc-libs" "glibc" "zsh" "iana-etc"
         #Herramientas POSIX
@@ -36,27 +37,27 @@ backup=("etc/fstab"
         "etc/gshadow"
         "etc/shadow"
         "etc/crypttab")
-source=("os-release"
-        "ld.so.conf"
-        "tmpfiles"
-        "sysusers"
-        "sysctl"
-        "locale.sh"
-        "crypttab"
-        "shadow"
-        "gshadow"
-        "profile"
-        "shells"
-        "securetty"
-        "resolv.conf"
-        "passwd"
-        "nsswitch.conf"
-        "issue"
-        "hosts"
-        "host.conf"
-        "fstab"
-        "group"
-        "env-generator"
+source=("$srcurl/os-release"
+        "$srcurl/ld.so.conf"
+        "$srcurl/tmpfiles"
+        "$srcurl/sysusers"
+        "$srcurl/sysctl"
+        "$srcurl/locale.sh"
+        "$srcurl/crypttab"
+        "$srcurl/shadow"
+        "$srcurl/gshadow"
+        "$srcurl/profile"
+        "$srcurl/shells"
+        "$srcurl/securetty"
+        "$srcurl/resolv.conf"
+        "$srcurl/passwd"
+        "$srcurl/nsswitch.conf"
+        "$srcurl/issue"
+        "$srcurl/hosts"
+        "$srcurl/host.conf"
+        "$srcurl/fstab"
+        "$srcurl/group"
+        "$srcurl/env-generator"
         "$url/img/wah-logo.png"
         "$url/img/wah-logo.svg"
         "$url/img/wah-logo-text.svg"
