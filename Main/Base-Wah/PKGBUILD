@@ -1,0 +1,185 @@
+# Maintainer: Panwah Team
+# Contributor: Reisy RedPanda <opensrcrdp@gmail.com>
+# Repo: Main
+pkgname="Base-Wah"
+pkgver=Alpha_1.0
+pkgrel=1
+pkgdesc="Panwah base package"
+arch=("x86_64" "aarch64")
+url="https://reisy243.github.io/panwah"
+srcurl="https://raw.githubusercontent.com/Reisy243/panwah/src/Main/$pkgname"
+license=("unknown")
+groups=("panwah")
+depends=(
+	# Essentials packages
+	"gcc-libs" "glibc" "zsh" "systemd" "systemd-sysvcompat"
+	# POSIX tools
+	"coreutils" "file" "findutils" "gawk" "grep" "procps-ng" "sed" "tar"
+	# Standard linux toolset
+	"gettext" "pciutils" "psmisc" "shadow" "util-linux" "gzip"
+	# Distro things
+	"pacman" "licenses" "archlinux-keyring" "zstd"
+	# Network things
+	"iputils" "iproute2" "iana-etc"
+)
+optdepends=(
+	"Linux-Wah: Default Panwah Linux kernel"
+	"plymouth: A graphical boot screen"
+	"xorg: Open-source display server for Linux and Unix"
+)
+provides=("BaseOS")
+backup=(
+	"etc/fstab"
+	"etc/group"
+	"etc/passwd"
+	"etc/nsswitch.conf"
+	"etc/host.conf"
+	"etc/hosts"
+	"etc/issue"
+	"etc/ld.so.conf"
+	"etc/resolv.conf"
+	"etc/securetty"
+	"etc/shells"
+	"etc/profile"
+	"etc/gshadow"
+	"etc/shadow"
+	"etc/crypttab"
+	"etc/subuid"
+	"etc/subgid"
+)
+#install=
+source=(
+	"$srcurl/os-release"
+	"$srcurl/ld.so.conf"
+	"$srcurl/tmpfiles"
+	"$srcurl/sysusers"
+	"$srcurl/sysctl"
+	"$srcurl/locale.sh"
+	"$srcurl/crypttab"
+	"$srcurl/shadow"
+	"$srcurl/gshadow"
+	"$srcurl/profile"
+	"$srcurl/shells"
+	"$srcurl/securetty"
+	"$srcurl/resolv.conf"
+	"$srcurl/passwd"
+	"$srcurl/nsswitch.conf"
+	"$srcurl/issue"
+	"$srcurl/hosts"
+	"$srcurl/host.conf"
+	"$srcurl/fstab"
+	"$srcurl/group"
+	"$srcurl/env-generator"
+	"$url/img/wah-logo.png"
+	"$url/img/wah-logo.svg"
+	"$url/img/wah-logo-text.svg"
+	"$url/img/wah-logo-text-dark.svg"
+)
+sha256sums=(
+	"96f25c1733eb590f24cef31ba454de2249ecb57d63ddf7a722a116744c49f46b"	# os-release
+	"b58e60290cc6d3ca8dff1fafa62609fdfabe5678bf3966864420854df5059ab7"	# ld.so.conf
+	"dc007e99beb452a337afb001d468452c279321827f75167626c2749528ccdc18"	# tmpfiles
+	"2dff2bbb783703a58293677466955aa690a7309eb86f44548f111ee4dfffba3e"	# sysusers
+	"89e43a0b7028f52d5c8e7fb961d962c4b4f4e9595880a6157274ddb2c7c0b6b4"	# sysctl
+	"f1a250f1953b825d66866d697692d899d1dfdfc6ba25a12b79349a71ca1be1d1"	# locale.sh
+	"c274eeaf211fed127c40da879b92dbdab60c54a926a82d9ecdb5f4d09e260380"	# crypttab
+	"6e13705ac4d6f69cdba118c6b70c722346fd3c45224133e6bbfe28aca719563c"	# shadow
+	"90d879374f77bac47f132164c1e7fc4892e994ff1d1ac376efa0c1c26ea37273"	# gshadow
+	"4d90b62468a460332b296a5d4585c16f8ecd6021cfe5a6bb3cc170ae450daa63"	# profile
+	"68efe8030497e67ec5506ed6f8343b39000c732edd2127cdb7f345c7994779cd"	# shells
+	"a94a057a1fe7146ecdb8a9fbc461ca6b1436197fe3edb1c97a08369eae4c2fad"	# securetty
+	"cf08287f7871877954d1a7f12358e96e6c233679c1d8889cc8dcb814a736a806"	# resolv.conf
+	"8909fc740f7cce4bfab2856ee67847ba4af815b93b18d9c67a8805e2d14f53bf"	# passwd
+	"1d9aec6695ecbde0a2fb7e32a426b7ca6439019bb9aca1cf4a62982adde3e15f"	# nsswitch.conf
+	"64e8fa0697a90f4358d1774209d55c7422689e212b6a056dd557bb50c2586728"	# issue
+	"f0e2d3c5d8f6ddc11c0c747cf852c400008c6a28a5d89d68cf5d03696e6a5eac"	# hosts
+	"2a6f3cc04a60e6f4f0d91ef0e728de6411a1efa41da65028b2a036c5cd4f42a9"	# host.conf
+	"7ef2f2aaef2049de5295dd0b4491a3232d6ff0013cbb8c722017fcc606dde993"	# fstab
+	"244f0718ee2a9d6862ae59d6c18c1dd1568651eada91a704574fa527fbac2b3a"	# group
+	"ed0cb4f1db4021f8c3b5ce78fdf91d2c0624708f58f36c9cf867f4d93c3bc6da"	# env-generator
+	"8e167fdd1deb7e14e869759b03703d0c57f090cf060336ad5588cf6b9e400ff9"	# wah-logo.png
+	"9c17a4922e7a1afb2f0c3e407d02c8e21184b1a0af772ad363d0709bf55a7d4b"	# wah-logo.svg
+	"a3efeefbccfe8a5cae1ae51b4e7abb6820d65fc4ab4f33712e7dc38d6a62dadc"	# wah-logo-text.svg
+	"42b1e3964759d79463ce9cf96ec2eb0cdc4939acdadc1c40b3f65fd69de0aad5"	# wah-logo-text-dark.svg
+)
+
+package() {
+	touch subgid
+	touch subuid
+	cd $pkgdir
+
+	# Creating root file system
+	install -d -m755 boot dev etc home mnt usr var opt run
+	install -d -m555 proc sys
+	install -d -m0750 root
+	install -d -m1777 tmp
+
+	# Configuring /etc and /usr/share/factory/etc
+	install -d etc/{ld.so.conf.d,skel,profile.d} usr/share/factory/etc
+	for Files in fstab group host.conf hosts issue ld.so.conf nsswitch.conf passwd resolv.conf securetty shells profile subuid subgid; do
+		install -m644 $srcdir/$Files etc/
+		install -m644 $srcdir/$Files usr/share/factory/etc/
+	done
+	ln -s ../proc/self/mounts etc/mtab
+	for f in gshadow shadow crypttab; do
+		install -m600 $srcdir/$f etc/
+		install -m600 $srcdir/$f usr/share/factory/etc/
+	done
+	install -m644 $srcdir/locale.sh etc/profile.d/locale.sh
+	install -Dm644 $srcdir/os-release usr/lib/os-release
+	echo "Panwah" > etc/wah-release
+
+	# Creating /usr hierarchy
+	for d in bin include lib share/{misc,pixmaps} src; do
+		install -d -m755 usr/$d
+	done
+	for d in {1..8}; do
+		install -d -m755 usr/share/man/man$d
+	done
+
+	# Adding lib symlinks
+	ln -s usr/lib lib
+	[[ $CARCH = 'x86_64' ]] && {
+		ln -s usr/lib lib64
+		ln -s lib usr/lib64
+	}
+
+	# Adding bin symlinks
+	ln -s usr/bin bin
+	ln -s usr/bin sbin
+	ln -s bin usr/sbin
+
+	# Setup /usr/local hierarchy
+	for d in bin etc games include lib man sbin share src; do
+		install -d -m755 usr/local/$d
+	done
+
+	ln -s ../man usr/local/share/man
+
+	# Configuring systemd-sysctl
+	install -D -m644 $srcdir/sysctl usr/lib/sysctl.d/10-wah.conf
+
+	# Configuring systemd-sysusers
+	install -D -m644 $srcdir/sysusers usr/lib/sysusers.d/wah.conf
+	
+	# Configuring systemd-tmpfiles
+	install -D -m644 $srcdir/tmpfiles usr/lib/tmpfiles.d/wah.conf
+	
+	# Configuring systemd.environment-generator
+	install -D -m755 $srcdir/env-generator usr/lib/systemd/system-environment-generators/10-wah
+	
+	# Adding logos
+	install -Dm644 $srcdir/wah-logo{.png,.svg,-text.svg,-text-dark.svg} $pkgdir/usr/share/pixmaps
+
+	# Configuring /var
+	for d in cache local opt log/old lib/misc empty; do
+		install -d -m755 /var/$d
+	done
+	install -d -m1777 var/tmp
+
+	ln -s ../run var/run
+	ln -s ../run/lock var/lock
+
+	# Allow setgid games (gid 50) to write scores
+	install -d -m775 -g 50 var/games
+}
