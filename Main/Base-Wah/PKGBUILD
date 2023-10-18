@@ -8,7 +8,7 @@ pkgdesc="Panwah base package"
 arch=("x86_64")
 url="https://reisy243.github.io/panwah"
 license=("unknown")
-groups=("panwah")
+groups=("Panwah")
 depends=(
 	# Essentials packages
 	"filesystem" "gcc-libs" "glibc" "zsh"
