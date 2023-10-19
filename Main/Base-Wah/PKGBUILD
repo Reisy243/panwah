@@ -2,16 +2,16 @@
 # Contributor: Isaac (Reisy RedPanda) <opensrcrdp@gmail.com>
 # Repo: Main
 pkgname="Base-Wah"
-pkgver=Alpha_1.0
-pkgrel=2
+pkgver=Alpha_1.1
+pkgrel=1
 pkgdesc="Panwah base package"
-arch=("x86_64")
+arch=("any")
 url="https://reisy243.github.io/panwah"
 license=("unknown")
 groups=("Panwah")
 depends=(
 	# Essentials packages
-	"filesystem" "gcc-libs" "glibc" "zsh"
+	"FileSystem" "gcc-libs" "glibc" "zsh"
 	# POSIX tools
 	"coreutils" "file" "findutils" "gawk" "grep" "procps-ng" "sed" "tar"
 	# standard linux toolset
