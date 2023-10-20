@@ -3,7 +3,7 @@
 # Repo: Main
 pkgname=mkinitcpio
 pkgver=36
-pkgrel=4
+pkgrel=5
 pkgdesc="Modular initramfs image creation utility"
 arch=("any")
 url="https://gitlab.archlinux.org/archlinux/mkinitcpio/mkinitcpio"
@@ -25,6 +25,7 @@ depends=(
 	"zstd"
 	"systemd"
 )
+makedepends=("asciidoc")
 checkdepends=("bash-bats" "bash-bats-assert" "lzop")
 optdepends=(
 	"gzip: Use gzip compression for the initramfs image"
