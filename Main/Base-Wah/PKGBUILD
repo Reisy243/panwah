@@ -3,7 +3,7 @@
 # Repo: Main
 pkgname="Base-Wah"
 pkgver=Alpha_1.1
-pkgrel=2
+pkgrel=1
 pkgdesc="Panwah base package"
 arch=("any")
 url="https://reisy243.github.io/panwah"
