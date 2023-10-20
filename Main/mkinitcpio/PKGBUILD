@@ -3,7 +3,7 @@
 # Repo: Main
 pkgname=mkinitcpio
 pkgver=36
-pkgrel=2
+pkgrel=3
 pkgdesc="Modular initramfs image creation utility"
 arch=("any")
 url="https://gitlab.archlinux.org/archlinux/mkinitcpio/mkinitcpio"
@@ -21,7 +21,7 @@ depends=(
 	"diffutils"
 	"findutils"
 	"grep"
-	"filesystem"
+	"FileSystem"
 	"zstd"
 	"systemd"
 )
