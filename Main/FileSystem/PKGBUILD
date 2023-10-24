@@ -4,7 +4,7 @@ pkgname="FileSystem"
 pkgver=Alpha_1.0
 pkgrel=1
 pkgdesc="Base Panwah files"
-arch=("x86_64")
+arch=("x86_64" "aarch64")
 url="https://reisy243.github.io/panwah"
 srcurl="https://raw.githubusercontent.com/Reisy243/panwah/src/Main/$pkgname"
 license=("unknown")
@@ -131,6 +131,12 @@ package() {
 	[[ $CARCH = 'x86_64' ]] && {
 		ln -s usr/lib lib64
 		ln -s lib usr/lib64
+	}
+
+	ln -s usr/lib lib
+	[[ $CARCH = 'aarch64' ]] && {
+		ln -s usr/lib libarm64
+		ln -s lib usr/libarm64
 	}
 
 	# Adding bin symlinks
