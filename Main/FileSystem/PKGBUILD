@@ -2,7 +2,7 @@
 # Repo: Main
 pkgname="FileSystem"
 pkgver=Alpha_1.0
-pkgrel=2
+pkgrel=3
 pkgdesc="Base WArch files"
 arch=("x86_64" "aarch64")
 url="https://reisy243.github.io/panwah"
