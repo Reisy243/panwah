@@ -4,7 +4,7 @@
 pkgname="Base-Wah"
 pkgver=Alpha_1.1
 pkgrel=1
-pkgdesc="Panwah base package"
+pkgdesc="WArch base package"
 arch=("any")
 url="https://reisy243.github.io/panwah"
 license=("unknown")
