@@ -2,7 +2,7 @@
 # Repo: Main
 pkgname="FileSystem"
 pkgver=Alpha_1.0
-pkgrel=4
+pkgrel=5
 pkgdesc="Base WArch files"
 arch=("x86_64" "aarch64")
 url="https://reisy243.github.io/panwah"
@@ -67,7 +67,7 @@ sha256sums=(
 	"dad04a370e488aa85fb0a813a5c83cf6fd981ce01883fc59685447b092de84b5"	# ld.so.conf
 	"8ca2d8eef6fb5143c9ef7e9174ccfef59ac7ad2deee243574cd10c763156cc10"	# locale.sh
 	"c8ee7a9faf798caab178ec51afae4146f1efd8a716b7acedf28345b6c75f9697"	# nsswitch.conf
-	"5ce015d5b9a6a69dfc10956f3becae31df442fb6f50925630c4b62485d07c2e3"	# os-release
+	"a3fa53114f9bfc4a77b567c92a6b98ee7061d230fa3be973cb273cae97439e22"	# os-release
 	"8f08231922fe185d3132f9aedded5cd688fb7c482a6f6f272402ded82fa4849a"	# profile
 	"8909fc740f7cce4bfab2856ee67847ba4af815b93b18d9c67a8805e2d14f53bf"	# passwd
 	"5557d8e601b17a80d1ea7de78a9869be69637cb6a02fbfe334e22fdf64e61d4c"	# resolv.conf
