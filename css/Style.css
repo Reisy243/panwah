@@ -1,24 +1,84 @@
-/* Cabecera */
-header {
-    border-bottom: 2px solid #eee;
-    padding: 20px 0;
-    margin-bottom: 10px;
-    width: 100%;
-    text-align: center;
+
+[theme="dark"] {
+    --font: #ffffff;
+    --font-hover: #d4d2d2;
+    --background: #303331;
+    --btn: #343D5B;
+    --btn-sw: #6b6868;
+    --right-sw: unset;
+    --left-sw: 0;
+    --line: #8a8a8a;
+  }
+  
+  [theme="light"] {
+    --font: #303331;
+    --font-hover: #525753;
+    --background: #ffffff;
+    --btn: orange;
+    --btn-sw: #ebe7e7;
+    --right-sw: 0;
+    --left-sw: unset;
+    --line: #eee;
   }
 
-  /* Botones */
-  input[type="button"] {
-    padding: 10px;
-    color: #fff;
-    background: #0098cb;
-    width: 80px;
-    margin: 20px auto;
-    margin-top: 0;
-    border: 0;
-    border-radius: 3px;
-    cursor: pointer;
+.identificador{
+  background-color: orange;
+}
+
+body{
+    background-color: var(--background);
+    color: var(--font);
   }
-  input[type="button"]:hover {
-    background-color: #00b8eb;
-  }
+
+.contenidoNav{
+
+    position: relative;
+    top : -5px;
+
+
+}
+
+
+.supbar{
+
+    background-color: var(--background);
+    border : solid;
+    border-width: 1px;
+    border-color: orange;
+}
+
+.downloadbtn{
+
+    background-color: #ff6600;
+    color: var(--font);
+    height: 50px;
+    border-radius: 5px;
+    border-style: none;
+    
+
+
+}
+
+.downloadbtn:hover{
+
+    background-color: #ff761b;
+    height: 50px;
+    border-radius: 5px;
+    border-style: none;
+}
+
+a {
+  color: var(--font);
+}
+
+a:hover {
+  color: var(--font-hover);
+}
+
+.title {
+  text-decoration: none;
+  font-family: 'Teko', sans-serif;  
+  font-size: 80px;
+  position: relative;
+  top: 15px;
+}
