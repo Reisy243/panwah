@@ -1,7 +1,11 @@
 NAME="WArch"
-PRETTY_NAME="WArch"
+VERSION="1.0 (Apple Yellow)"
 ID=warch
+ID_LIKE="wah arch"
+PRETTY_NAME="WArch"
+VERSION_ID="1.0"
+HOME_URL="https://reisy243.github.io/panwah/"
+VERSION_CODENAME=yellow
 BUILD_ID=rolling
 ANSI_COLOR="38;5;208"
-HOME_URL="https://reisy243.github.io/panwah/"
 LOGO=wah-logo
