@@ -1,0 +1,14 @@
+Package: fonts-teko
+Priority: optional
+Section: fonts
+Maintainer: Isaac David Orozco Delgado (Reisy RedPanda) <opensrcrdp@gmail.com>
+Conflicts: fonts-teko-static
+Architecture: all
+Installed-Size: 276
+Version: 1.1
+Homepage: https://fonts.google.com/specimen/Teko
+Description: Font Teko Designed by Indian Type Foundry 
+ Teko is an Open Source typeface that currently supports the
+ Devanagari and Latin scripts. This font family has been created
+ for use in headlines and other display-sized text on screen.
+ Five font styles make up the initial release.

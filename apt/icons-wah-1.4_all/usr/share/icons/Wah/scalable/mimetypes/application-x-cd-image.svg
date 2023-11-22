@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="application-x-cd-image.svg"
+   inkscape:export-filename="../../48x48/mimetypes/application-x-cd-image.png"
+   inkscape:export-xdpi="9"
+   inkscape:export-ydpi="9"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title250">CD Image/ISO</title>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.91505795"
+     inkscape:cx="138.24261"
+     inkscape:cy="217.47257"
+     inkscape:window-width="1366"
+     inkscape:window-height="699"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs2">
+    <rect
+       x="17.281965"
+       y="92.834013"
+       width="451.33814"
+       height="376.56341"
+       id="rect1243" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="background"
+     style="display:inline;fill:#3b9ea1;fill-opacity:1"
+     transform="translate(2.4752789e-7)">
+    <rect
+       style="fill:#3b9ea1;fill-opacity:1;stroke:#000000;stroke-width:1.15825;stroke-dasharray:none;stroke-opacity:0"
+       id="bg-pt1"
+       width="70.185257"
+       height="101.94067"
+       x="23.603342"
+       y="15.786503"
+       rx="0.13786614"
+       ry="1.6847664" />
+    <rect
+       style="display:inline;fill:#3b9ea1;fill-opacity:1;stroke:#000000;stroke-width:1.00499;stroke-dasharray:none;stroke-opacity:0"
+       id="bg-pt2"
+       width="18.89612"
+       height="82.313622"
+       x="92.347923"
+       y="35.349548"
+       rx="0.110959"
+       ry="1.5760226" />
+    <rect
+       style="display:inline;fill:#3b9ea1;fill-opacity:1;stroke:#000000;stroke-width:0.442846;stroke-dasharray:none;stroke-opacity:0"
+       id="bg-pt3"
+       width="14.450055"
+       height="20.90048"
+       x="42.509193"
+       y="77.041412"
+       rx="0.084851488"
+       ry="0.40017232"
+       transform="matrix(0.74961057,-0.66187914,0.67410047,0.73863967,0,0)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="border"
+     style="display:inline">
+    <rect
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0877927;stroke-opacity:1"
+       id="file"
+       width="38.470509"
+       height="1.3659723"
+       x="54.985107"
+       y="-51.365036"
+       rx="3.141741"
+       ry="0.28801024"
+       transform="matrix(-0.00168655,2.8165369,-2.6971831,-0.20577012,-114.47226,-153.03175)" />
+    <rect
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0777159;stroke-opacity:1"
+       id="file-2"
+       width="29.85548"
+       height="1.3792787"
+       x="62.387596"
+       y="-84.304832"
+       rx="2.4381843"
+       ry="0.29081586"
+       transform="matrix(-0.00219681,2.8165367,-2.7001436,-0.15814959,-114.47226,-153.03175)" />
+    <rect
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0809213;stroke-opacity:1"
+       id="file-3"
+       width="33.864414"
+       height="1.3183477"
+       x="55.819427"
+       y="96.155258"
+       rx="2.7655785"
+       ry="0.27796876"
+       transform="matrix(2.70441,0.00113662,-0.15968106,2.8116236,-114.47226,-153.03175)" />
+    <rect
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0717017;stroke-opacity:1"
+       id="file-4"
+       width="25.528074"
+       height="1.3730994"
+       x="53.011169"
+       y="58.644905"
+       rx="2.0847809"
+       ry="0.28951299"
+       transform="matrix(2.7044097,0.00157172,-0.11557278,2.8139644,-114.47226,-153.03175)" />
+    <rect
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0489595;stroke-opacity:1"
+       id="file-5"
+       width="11.898283"
+       height="1.373558"
+       x="95.901817"
+       y="-15.047037"
+       rx="0.97168756"
+       ry="0.28960967"
+       transform="matrix(1.8554688,2.049078,-1.8282823,2.0754146,-114.47226,-153.03175)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="icon"
+     style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+     transform="matrix(2.7044102,0,0,2.8165375,-114.47226,-150.39975)">
+    <g
+       inkscape:groupmode="layer"
+       id="layer2"
+       inkscape:label="CD"
+       transform="matrix(0.3697664,0,0,0.35504587,42.327994,53.39881)"
+       style="fill:#5f5f5f;fill-opacity:1">
+      <path
+         style="fill:#5f5f5f;stroke-width:0;fill-opacity:1;stroke-dasharray:none"
+         id="CD"
+         sodipodi:type="arc"
+         sodipodi:cx="66.568695"
+         sodipodi:cy="69.696884"
+         sodipodi:rx="31.891748"
+         sodipodi:ry="31.891748"
+         sodipodi:start="0"
+         sodipodi:end="6.282781"
+         sodipodi:arc-type="slice"
+         d="M 98.460443,69.696884 A 31.891748,31.891748 0 0 1 66.571919,101.58863 31.891748,31.891748 0 0 1 34.676947,69.703331 31.891748,31.891748 0 0 1 66.559025,37.805137 31.891748,31.891748 0 0 1 98.460441,69.68399 l -31.891746,0.01289 z" />
+      <path
+         style="fill:#838383;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+         id="path5745"
+         sodipodi:type="arc"
+         sodipodi:cx="67.824577"
+         sodipodi:cy="70.177254"
+         sodipodi:rx="2.488322"
+         sodipodi:ry="2.488322"
+         sodipodi:start="0"
+         sodipodi:end="6.282781"
+         sodipodi:arc-type="slice"
+         d="m 70.312899,70.177254 a 2.488322,2.488322 0 0 1 -2.48807,2.488322 2.488322,2.488322 0 0 1 -2.488574,-2.487819 2.488322,2.488322 0 0 1 2.487568,-2.488825 2.488322,2.488322 0 0 1 2.489076,2.487316 l -2.488322,0.001 z" />
+      <path
+         style="fill:#3b9ea1;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+         id="path6077"
+         sodipodi:type="arc"
+         sodipodi:cx="67.772018"
+         sodipodi:cy="70.158211"
+         sodipodi:rx="0.60095781"
+         sodipodi:ry="0.60095781"
+         sodipodi:start="0"
+         sodipodi:end="6.282781"
+         sodipodi:arc-type="slice"
+         d="m 68.372976,70.158211 a 0.60095781,0.60095781 0 0 1 -0.600897,0.600958 0.60095781,0.60095781 0 0 1 -0.601018,-0.600837 0.60095781,0.60095781 0 0 1 0.600775,-0.601079 0.60095781,0.60095781 0 0 1 0.60114,0.600715 l -0.600958,2.43e-4 z" />
+    </g>
+  </g>
+  <metadata
+     id="metadata1524">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Isaac David Orozco Delgado (Reisy RedPanda)</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:date>17/11/2023</dc:date>
+        <dc:title>CD Image/ISO</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

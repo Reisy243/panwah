@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="android-package-archive.svg"
+   inkscape:export-filename="../../48x48/mimetypes/android-package-archive.png"
+   inkscape:export-xdpi="9"
+   inkscape:export-ydpi="9"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title144">Android APK</title>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0104033"
+     inkscape:cx="282.56044"
+     inkscape:cy="257.32299"
+     inkscape:window-width="1366"
+     inkscape:window-height="699"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer4" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="box"
+     style="display:inline">
+    <rect
+       style="fill:#3cbd1e;fill-opacity:1;stroke:#69de4f;stroke-width:1.257;stroke-dasharray:none;stroke-opacity:1"
+       id="box"
+       width="84.174828"
+       height="42.350182"
+       x="25.748964"
+       y="63.445259" />
+    <path
+       style="fill:#37a919;fill-opacity:1;stroke:#4ad52a;stroke-width:1.253;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 26.379192,62.192451 14.786572,-19.559658 51.993561,-0.0088 16.070105,19.569774 z"
+       id="box-pt2"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#3dbd1e;fill-opacity:1;stroke:#69de4f;stroke-width:1.253;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1.6655598,51.107552 25.647427,62.816146 40.935134,42.505118 18.854413,31.73924 Z"
+       id="flap-pt1"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#3dbd1e;fill-opacity:1;stroke:#69de4f;stroke-width:1.253;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 94.317368,42.073204 110.67156,62.166595 134.94761,47.303517 116.40379,30.322616 Z"
+       id="flap-pt2"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+  <metadata
+     id="metadata1524">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Isaac David Orozco Delgado (Reisy RedPanda)</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:date>17/11/2023</dc:date>
+        <dc:title>Android APK</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="icon"
+     style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+     transform="matrix(2.7044102,0,0,2.8165375,-114.39188,-148.57611)">
+    <g
+       inkscape:groupmode="layer"
+       id="layer2"
+       inkscape:label="android"
+       transform="matrix(0.3697664,0,0,0.35504587,42.298273,52.751334)"
+       style="display:inline">
+      <path
+         style="display:inline;fill:#51de2f;fill-opacity:1;stroke:none;stroke-width:0.0667901px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 56.025848,89.312029 c 5.287329,-12.829359 22.579608,-7.360754 23.525376,0.02005 z"
+         id="head"
+         sodipodi:nodetypes="ccc"
+         transform="matrix(2.7044102,0,0,2.8165375,-114.39188,-148.57611)" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer3"
+         inkscape:label="eyes"
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         transform="matrix(2.7044102,0,0,2.8165375,-114.39188,-152.84353)">
+        <path
+           style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.454001;stroke-dasharray:none;stroke-opacity:1"
+           id="right"
+           sodipodi:type="arc"
+           sodipodi:cx="72.840408"
+           sodipodi:cy="88.192719"
+           sodipodi:rx="1.0672112"
+           sodipodi:ry="1.0247251"
+           sodipodi:start="0"
+           sodipodi:end="6.2740572"
+           sodipodi:arc-type="slice"
+           d="m 73.907619,88.192719 a 1.0672112,1.0247251 0 0 1 -1.064775,1.024722 1.0672112,1.0247251 0 0 1 -1.069636,-1.020046 1.0672112,1.0247251 0 0 1 1.059894,-1.029378 1.0672112,1.0247251 0 0 1 1.074473,1.015348 l -1.067167,0.0094 z" />
+        <path
+           style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.454001;stroke-dasharray:none;stroke-opacity:1"
+           id="left"
+           sodipodi:type="arc"
+           sodipodi:cx="62.646957"
+           sodipodi:cy="88.251076"
+           sodipodi:rx="1.0672112"
+           sodipodi:ry="1.0247251"
+           sodipodi:start="0"
+           sodipodi:end="6.2740572"
+           sodipodi:arc-type="slice"
+           d="m 63.714169,88.251076 a 1.0672112,1.0247251 0 0 1 -1.064776,1.024722 1.0672112,1.0247251 0 0 1 -1.069636,-1.020045 1.0672112,1.0247251 0 0 1 1.059894,-1.029378 1.0672112,1.0247251 0 0 1 1.074473,1.015347 l -1.067167,0.0094 z" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="layer4"
+         inkscape:label="antennas"
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         transform="matrix(2.7044102,0,0,2.8165375,-114.39188,-142.7237)">
+        <rect
+           style="fill:#51de2f;fill-opacity:1;stroke:none;stroke-width:0.432744;stroke-dasharray:none;stroke-opacity:1"
+           id="left-ant"
+           width="4.9304471"
+           height="1.1642697"
+           x="97.348381"
+           y="-2.5592728"
+           ry="0.51417881"
+           transform="matrix(0.58692692,0.80963991,-0.83140247,0.55567071,0,0)" />
+        <rect
+           style="display:inline;fill:#51de2f;fill-opacity:1;stroke:none;stroke-width:0.432732;stroke-dasharray:none;stroke-opacity:1"
+           id="right-ant"
+           width="4.9215317"
+           height="1.1663128"
+           x="26.903887"
+           y="-107.97525"
+           ry="0.51508105"
+           transform="matrix(-0.54704962,0.83710018,-0.85654345,-0.51607492,0,0)" />
+      </g>
+    </g>
+  </g>
+</svg>

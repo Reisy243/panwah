@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="folder-templates.svg"
+   inkscape:export-filename="../../64x64/places/folder-templates.png"
+   inkscape:export-xdpi="12"
+   inkscape:export-ydpi="12"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title2258">Folder templates</title>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="4.5574408"
+     inkscape:cx="254.63852"
+     inkscape:cy="339.88373"
+     inkscape:window-width="1366"
+     inkscape:window-height="699"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="face 2"
+     transform="translate(0.93386693,-5.231476)"
+     style="display:inline;fill:#ffff32;fill-opacity:1">
+    <rect
+       style="fill:#ffff32;fill-opacity:1;stroke-width:0.505544"
+       id="face2-pt2"
+       width="107.63847"
+       height="73.893669"
+       x="13.536472"
+       y="43.460163"
+       rx="6.0164781"
+       ry="11.127864" />
+    <rect
+       style="fill:#ffff32;fill-opacity:1;stroke-width:0.264583"
+       id="face2-pt1"
+       width="39.634453"
+       height="42.216362"
+       x="81.42289"
+       y="37.62426"
+       rx="4.282331"
+       ry="4.282331" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="face 1"
+     style="display:inline;fill:#ffff5b;fill-opacity:1"
+     transform="matrix(1,0,0,0.85282054,69.019144,13.67495)">
+    <rect
+       style="fill:#ffff5b;fill-opacity:1;stroke-width:0.520015"
+       id="face1-pt2"
+       width="107.63847"
+       height="78.184624"
+       x="-54.392902"
+       y="36.673016"
+       rx="6.0164781"
+       ry="11.774051" />
+    <rect
+       style="fill:#ffff5b;fill-opacity:1;stroke-width:0.264583"
+       id="face1-pt1"
+       width="39.634453"
+       height="42.216362"
+       x="-54.239876"
+       y="28.788363"
+       rx="4.282331"
+       ry="4.282331" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="icon"
+     style="fill:#cece0a;fill-opacity:1"
+     transform="matrix(1.1821855,0,0,1.2312,-11.711163,-17.938629)">
+    <rect
+       style="fill:#cece0a;fill-opacity:1;stroke-width:0.138804"
+       id="file"
+       width="19.105043"
+       height="6.8755126"
+       x="58.155968"
+       y="-57.203636"
+       rx="1.5602362"
+       ry="1.4496765"
+       transform="matrix(-0.00633756,0.99997992,-0.99997402,-0.007208,0,0)" />
+    <rect
+       style="fill:#cece0a;fill-opacity:1;stroke-width:0.172141"
+       id="file-2"
+       width="29.383301"
+       height="6.8757558"
+       x="67.021324"
+       y="-84.378548"
+       rx="2.3996227"
+       ry="1.449728"
+       transform="matrix(-0.00412069,0.99999151,-0.99993855,-0.01108555,0,0)" />
+    <rect
+       style="fill:#cece0a;fill-opacity:1;stroke-width:0.136864"
+       id="file-3"
+       width="18.574743"
+       height="6.8755875"
+       x="64.742058"
+       y="89.92292"
+       rx="1.5169288"
+       ry="1.4496926"
+       transform="matrix(0.99999261,0.00384372,-0.00620979,0.99998072,0,0)" />
+    <rect
+       style="fill:#cece0a;fill-opacity:1;stroke-width:0.0638616"
+       id="file-4"
+       width="4.0441952"
+       height="6.8754616"
+       x="59.653591"
+       y="89.123032"
+       rx="0.33027413"
+       ry="1.449666"
+       transform="matrix(0.99984416,0.01765402,-0.00135185,0.99999909,0,0)" />
+    <rect
+       style="fill:#cece0a;fill-opacity:1;stroke-width:0.0638616"
+       id="file-5"
+       width="4.0441952"
+       height="6.8754616"
+       x="54.768887"
+       y="89.16951"
+       rx="0.33027413"
+       ry="1.449666"
+       transform="matrix(0.99984416,0.01765402,-0.00135185,0.99999909,0,0)" />
+    <rect
+       style="fill:#cece0a;fill-opacity:1;stroke-width:0.0638616"
+       id="file-6"
+       width="4.0441952"
+       height="6.8754616"
+       x="49.96904"
+       y="89.380829"
+       rx="0.33027413"
+       ry="1.449666"
+       transform="matrix(0.99984416,0.01765402,-0.00135185,0.99999909,0,0)" />
+    <rect
+       style="fill:#cece0a;fill-opacity:1;stroke-width:0.0578637"
+       id="file-7"
+       width="6.8066907"
+       height="3.3537579"
+       x="50.161831"
+       y="81.853577"
+       rx="0.55587661"
+       ry="0.70712757"
+       transform="matrix(0.99998691,0.00511641,-0.00466514,0.99998912,0,0)" />
+    <rect
+       style="fill:#cece0a;fill-opacity:1;stroke-width:0.0578637"
+       id="file-8"
+       width="6.8066907"
+       height="3.3537579"
+       x="50.094456"
+       y="77.753235"
+       rx="0.55587661"
+       ry="0.70712757"
+       transform="matrix(0.99998691,0.00511641,-0.00466514,0.99998912,0,0)" />
+    <rect
+       style="fill:#cece0a;fill-opacity:1;stroke-width:0.0578637"
+       id="file-9"
+       width="6.8066907"
+       height="3.3537579"
+       x="50.248856"
+       y="85.926903"
+       rx="0.55587661"
+       ry="0.70712757"
+       transform="matrix(0.99998691,0.00511641,-0.00466514,0.99998912,0,0)" />
+    <rect
+       style="fill:#cece0a;fill-opacity:1;stroke-width:0.160243"
+       id="file-10"
+       width="25.462099"
+       height="6.8757043"
+       x="51.036167"
+       y="58.50819"
+       rx="2.0793931"
+       ry="1.4497172"
+       transform="matrix(0.99999607,0.00280402,-0.00851221,0.99996377,0,0)" />
+    <rect
+       style="fill:#cece0a;fill-opacity:1;stroke-width:0.116079"
+       id="file-11"
+       width="13.362779"
+       height="6.8748937"
+       x="93.519081"
+       y="-18.906759"
+       rx="1.0912875"
+       ry="1.4495462"
+       transform="matrix(0.65269557,0.75762028,-0.76276592,0.64667469,0,0)" />
+  </g>
+  <metadata
+     id="metadata2256">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Isaac David Orozco Delgado (Reisy RedPanda)</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:date>15/11/2023</dc:date>
+        <dc:title>Folder templates</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
