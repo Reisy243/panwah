@@ -20,10 +20,6 @@
     --line: #eee;
   }
 
-*{
-    font-family: 'Teko', monospace;
-}
-
 .identificador{
   background-color: orange;
 }
@@ -70,8 +66,9 @@ a:hover {
 }
 
 .title {
-  text-decoration: none;
-  font-size: 80px;
-  position: relative;
-  top: 15px;
+    font-family: 'Teko', sans-serif;
+    text-decoration: none;
+    font-size: 80px;
+    position: relative;
+    top: 15px;
 }
