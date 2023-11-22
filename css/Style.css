@@ -1,4 +1,3 @@
-
 [theme="dark"] {
     --font: #ffffff;
     --font-hover: #d4d2d2;
@@ -21,6 +20,10 @@
     --line: #eee;
   }
 
+*{
+    font-family: 'Teko', sans-serif;
+}
+
 .identificador{
   background-color: orange;
 }
@@ -31,16 +34,12 @@ body{
   }
 
 .contenidoNav{
-
     position: relative;
     top : -5px;
-
-
 }
 
 
 .supbar{
-
     background-color: var(--background);
     border : solid;
     border-width: 1px;
@@ -48,19 +47,14 @@ body{
 }
 
 .downloadbtn{
-
     background-color: #ff6600;
     color: var(--font);
     height: 50px;
     border-radius: 5px;
     border-style: none;
-    
-
-
 }
 
 .downloadbtn:hover{
-
     background-color: #ff761b;
     height: 50px;
     border-radius: 5px;
@@ -77,7 +71,6 @@ a:hover {
 
 .title {
   text-decoration: none;
-  font-family: 'Teko', sans-serif;  
   font-size: 80px;
   position: relative;
   top: 15px;
