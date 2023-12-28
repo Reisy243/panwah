@@ -1,0 +1,8 @@
+[Icon Theme]
+Name=Wah
+Comment=The Wah icons
+Example=user-trash
+Inherits=hicolor
+
+# Directory list
+Directories=48x48/mimetypes,48x48/places,48x48/status,64x64/mimetypes,64x64/places,64x64/status,72x72/mimetypes,72x72/places,72x72/status,96x96/mimetypes,96x96/places,96x96/status,128x128/mimetypes,128x128/places,128x128/status,192x192/mimetypes,192x192/places,192x192/status,256x256/mimetypes,256x256/places,256x256/status,512x512/mimetypes,512x512/places,512x512/status,1024x1024/mimetypes,1024x1024/places,1024x1024/status,scalable/mimetypes,scalable/places,scalable/status

@@ -4,8 +4,8 @@ Section: icon-theme
 Maintainer: Isaac David Orozco Delgado (Reisy RedPanda) <opensrcrdp@gmail.com>
 Architecture: all
 Depends: fonts-teko, hicolor-icon-theme, gtk-update-icon-cache
-Installed-Size: 328
-Version: 1.4
+Installed-Size: 148648
+Version: 1.5
 Homepage: https://github.com/Reisy243/Wah-Icons
 Description: A Icon theme for Panwah
  Wah is a simple icon theme for the GNU/Linux
